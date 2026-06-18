@@ -1,4 +1,4 @@
-# ⏳ Task 1: Exact Age & Life Stat Calculator
+#  Exact Age & Life Stat Calculator
 
 An interactive, responsive web application built as part of my web development internship tasks. This tool calculates an individual's precise chronological age in years, months, and days, while handling complex date constraints like varying month lengths and leap years. It also generates real-time advanced life statistics.
 
